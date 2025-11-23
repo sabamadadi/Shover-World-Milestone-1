@@ -116,7 +116,3 @@ We take code quality seriously. A comprehensive `pytest` suite ensures the physi
     ```bash
     python gui.py
     ```
-
------
-
-*Created for Milestone 1 Report - November 2025*
