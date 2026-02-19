@@ -1,4 +1,4 @@
-# 📦 Shover World
+# 📦 Shover World - Milestone 1
 
 ### *Strategic Box-Pushing with Physics & Stamina Management*
 
